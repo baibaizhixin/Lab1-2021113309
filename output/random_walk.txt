@@ -1,0 +1,10 @@
+Visited Nodes:
+life and new worlds to explore strange new
+Visited Edges:
+life -> and
+and -> new
+new -> worlds
+worlds -> to
+to -> explore
+explore -> strange
+strange -> new
