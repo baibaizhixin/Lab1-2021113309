@@ -8,3 +8,4 @@ worlds -> to
 to -> explore
 explore -> strange
 strange -> new
+B2
