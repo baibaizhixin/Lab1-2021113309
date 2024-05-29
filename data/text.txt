@@ -1,1 +1,2 @@
-To explore strange new worlds. To seek out new life and new civilizations.B1
+To explore strange new worlds. To seek out new life and new civilizations.
+这是合并后的内容，结合了 B1 和 C4 的修改
